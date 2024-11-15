@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @davidbelizario and I study systems analysis and development at Institute Federal Of São Paulo;
-- 👀 I’m interested in software technology;
-- 🌱 I’m currently learning operating systems, database, architecture, cloud and infrastructure;
-- Programming languages: Java, JavaScript, C, PHP;
+- 👋 Hi, I’m @davidbelizario and I'm a Software Engineer;
+- Programming languages: Java, TypeScript, JavaScript;
 - 📫 How to reach me: send e-mail to david_rodriguez1999@hotmail.com
 
 <!---
